@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in"></p>
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+My+name+is+Gulrukh++;I+am+a+passionate+python+backend+developer" alt="Typing SVG" /></a>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+My+name+is+Gulrukh++;I+am+a+passionate+python+backend+developer" alt="" /></a>  
 </p>
 <p>
 <a href="https://git.io/typing-svg">
